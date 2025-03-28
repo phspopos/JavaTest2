@@ -8,6 +8,6 @@ public class Test2 {
 		System.out.println("77또다시 한번");
 		System.out.println("77또다시 한번");
 		System.out.println("77또다시 한번");
-		
+		System.out.println("77또다시 한번");
 	}
 }
